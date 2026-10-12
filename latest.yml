@@ -1,0 +1,9 @@
+version: 0.2.2
+files:
+  - url: https://github.com/samuelharting/alto-beta-releases/releases/download/v0.2.2/Alto-Helper-0.2.2-x64.exe
+    sha512: Uet71VjvplVqoMr8CW6pUgeer3eLxjhMnxT2DjR4r+Be091LJRMRiW2u4oM+uPowuT5rGN4vAApSA284AFFJQg==
+    size: 213112095
+path: https://github.com/samuelharting/alto-beta-releases/releases/download/v0.2.2/Alto-Helper-0.2.2-x64.exe
+sha512: Uet71VjvplVqoMr8CW6pUgeer3eLxjhMnxT2DjR4r+Be091LJRMRiW2u4oM+uPowuT5rGN4vAApSA284AFFJQg==
+releaseDate: '2026-10-12T23:48:14.424Z'
+
